@@ -7,7 +7,7 @@ For each line, you need to check if it has the correct format. If the line is ma
 
 After all the input lines are processed, you should output all the transcations in ascending order, according to their timestamps.
 
-
+![image](https://user-images.githubusercontent.com/25571819/33749453-a736a012-db82-11e7-95df-d5efc9126fe0.png)
 
 BUILD:
 
